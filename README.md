@@ -8,6 +8,9 @@ you must also have redis running. bot.js uses its default credentials. redis is 
 commands are 
 
 deposit // returns a wallet address you can deposit to
+
 withdraw [your-dogecoin-address] // sends your entire balance within the bot to your-dogecoin-address
+
 tip [@username] [value] // tips user the intended value (assuming you have it in that wallet)
+
 balance // displays your current balance in chat 
