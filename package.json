@@ -2,7 +2,7 @@
     "name": "plugdj-dogecoin-tipbot",
     "version": "0.1.0",
     "description": "Chat bot for plug.dj that allows tipping in dogecoin",
-    "author": "moncrey <modulations@gmail.com>"
+    "author": "moncrey <modulations@gmail.com>",
     "main": "bot.js",
     "dependencies": {
        "nconf":">= 0.6.9",
