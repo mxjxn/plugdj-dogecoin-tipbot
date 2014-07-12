@@ -1,5 +1,4 @@
-#DOGECOIN TIP BOT 
-##for PLUG.DJ
+#DOGECOIN TIP BOT for PLUG.DJ
 
 uses npm packages node-dogecoin, redis, plugapi and nconf.
 
