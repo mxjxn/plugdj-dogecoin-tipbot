@@ -17,3 +17,7 @@ by default, command delimiter is `.` (period)
 `tip [@username] [value]` tips user the intended value (assuming you have it in that wallet)
 
 `balance` displays your current balance in chat 
+
+and a handful of other unimportant ones like `roll`, `throw`, `moo`, and `clap`. 
+
+if you write a non-existent command, the bot will insult you. 
